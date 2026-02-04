@@ -93,6 +93,3 @@ This project serves as:
 * A strong portfolio project demonstrating Python, Pygame, and procedural generation
 
 ---
-
-
-You’re building real stuff now. Keep going 🕹️🔥
